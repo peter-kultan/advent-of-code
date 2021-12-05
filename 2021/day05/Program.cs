@@ -135,8 +135,8 @@ namespace day05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Vents.part01("input01.txt") == 6572);
-            Console.WriteLine(Vents.part02("input02.txt") == 21466);
+            Console.WriteLine(Vents.part01("input01.txt"));
+            Console.WriteLine(Vents.part02("input02.txt"));
         }
     }
 }
