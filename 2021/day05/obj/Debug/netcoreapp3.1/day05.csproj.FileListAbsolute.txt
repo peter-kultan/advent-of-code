@@ -1,0 +1,13 @@
+C:\skola\advent of code\2021\day05\obj\Debug\netcoreapp3.1\day05.csprojAssemblyReference.cache
+C:\skola\advent of code\2021\day05\obj\Debug\netcoreapp3.1\day05.AssemblyInfoInputs.cache
+C:\skola\advent of code\2021\day05\obj\Debug\netcoreapp3.1\day05.AssemblyInfo.cs
+C:\skola\advent of code\2021\day05\obj\Debug\netcoreapp3.1\day05.csproj.CoreCompileInputs.cache
+C:\skola\advent of code\2021\day05\bin\Debug\netcoreapp3.1\day05.exe
+C:\skola\advent of code\2021\day05\bin\Debug\netcoreapp3.1\day05.deps.json
+C:\skola\advent of code\2021\day05\bin\Debug\netcoreapp3.1\day05.runtimeconfig.json
+C:\skola\advent of code\2021\day05\bin\Debug\netcoreapp3.1\day05.runtimeconfig.dev.json
+C:\skola\advent of code\2021\day05\bin\Debug\netcoreapp3.1\day05.dll
+C:\skola\advent of code\2021\day05\bin\Debug\netcoreapp3.1\day05.pdb
+C:\skola\advent of code\2021\day05\obj\Debug\netcoreapp3.1\day05.dll
+C:\skola\advent of code\2021\day05\obj\Debug\netcoreapp3.1\day05.pdb
+C:\skola\advent of code\2021\day05\obj\Debug\netcoreapp3.1\day05.genruntimeconfig.cache
