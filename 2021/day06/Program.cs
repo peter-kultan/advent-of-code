@@ -90,7 +90,7 @@ namespace day06
             Lanternfish part01 = new Lanternfish("input01.txt");
             Console.WriteLine(part01.Simulate(80));
             Lanternfish part02 = new Lanternfish("input02.txt");
-            Console.WriteLine(part02.Simulate(2048));
+            Console.WriteLine(part02.Simulate(256));
         }
     }
 }
